@@ -67,3 +67,11 @@ plot_each后
 
 - 包含所有图像的子图
 - 一个名叫‘周期收集‘的ecxel表格供你们后期继续使用(顺序与子图顺序一致）
+
+### 处理效果
+
+- single（plot_each)
+![single.png](single.png)
+
+- zong(plot_wav)
+![zong.png](zong.png)
